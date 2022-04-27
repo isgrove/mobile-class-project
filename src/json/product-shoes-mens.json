@@ -1,0 +1,44 @@
+[
+    {
+      "id": 100,
+      "imageUri": "https://i.ibb.co/Dr9MF8J/shoe1.jpg",
+      "name": "Men Shoe1",
+      "priceOne": 120,
+      "priceTwo": "$180"
+    },
+    {
+      "id": 101,
+      "imageUri": "https://i.ibb.co/6Xwg2vn/shoe2.jpg",
+      "name": "Men Shoe2",
+      "priceOne": 80,
+      "priceTwo": "$100"
+    },
+    {
+      "id": 102,
+      "imageUri": "https://i.ibb.co/P5rPHy1/shoe3.jpg",
+      "name": "Men Shoe3",
+      "priceOne": 110,
+      "priceTwo": "$150"
+    },
+    {
+      "id": 103,
+      "imageUri": "https://i.ibb.co/S3CBZbR/shoe4.jpg",
+      "name": "Men Shoe4",
+      "priceOne": 50,
+      "priceTwo": null
+    },
+    {
+      "id": 104,
+      "imageUri": "https://i.ibb.co/Dr9MF8J/shoe1.jpg",
+      "name": "Men Shoe5",
+      "priceOne":30,
+      "priceTwo": null
+    },
+    {
+      "id": 105,
+      "imageUri": "https://i.ibb.co/6Xwg2vn/shoe2.jpg",
+      "name": "Men Shoe6",
+      "priceOne": 250,
+      "priceTwo": null
+    }
+]

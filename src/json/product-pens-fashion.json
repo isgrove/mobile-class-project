@@ -1,0 +1,45 @@
+[
+    {
+      "id": 2000,
+      "imageUri": "https://i.ibb.co/jW9JNPy/pen1.jpg",
+      "name": "Fashion Pen1",
+      "priceOne": 120,
+      "priceTwo": "$180"
+    },
+    {
+      "id": 2001,
+      "imageUri": "https://i.ibb.co/qYNQxR3/pen2.jpg",
+      "name": "Fashion Pen2",
+      "priceOne": 100,
+      "priceTwo": null
+    },
+    {
+      "id": 2002,
+      "imageUri": "https://i.ibb.co/NTyF19k/pen3.jpg",
+      "name": "Fashion Pen3",
+      "priceOne": 50,
+      "priceTwo": null
+    },
+    {
+      "id": 2003,
+      "imageUri": "https://i.ibb.co/HpptWwZ/pen4.jpg",
+      "name": "Fashion Pen4",
+      "priceOne": 80,
+      "priceTwo": null
+    },
+    {
+      "id": 2004,
+      "imageUri": "https://i.ibb.co/jW9JNPy/pen1.jpg",
+      "name": "Fashion Pen5",
+      "priceOne": 40,
+      "priceTwo": null
+    },
+    {
+      "id": 2005,
+      "imageUri": "https://i.ibb.co/qYNQxR3/pen2.jpg",
+      "name": "Fashion Pen6",
+      "priceOne": 30,
+      "priceTwo": null
+    }
+]
+  

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Watches",
+        "imageUri": "https://i.ibb.co/D4DyBQw/watch.jpg",
+        "titleFirst": "Watches",
+        "titleSecond": "Fashion",
+        "subTitle":"Specials!"
+      },
+      {
+        "id": 2,
+        "name": "Pens",
+        "imageUri": "https://i.ibb.co/C92JP67/pen.jpg",
+        "titleFirst": "Pens",
+        "titleSecond": "Latest",
+        "subTitle":"New Pens!"
+      },
+      {
+        "id": 3,
+        "name": "Shoes",
+        "imageUri": "https://i.ibb.co/kM5NMZ9/shoe.jpg",
+        "titleFirst": "Shoes",
+        "titleSecond": "Fashion",
+        "subTitle":"Latest fashions!!"
+      }
+]
