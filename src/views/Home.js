@@ -1,13 +1,14 @@
 import React,{Component} from "react";
 import {View,Text} from "react-native";
 
-const HOMECATEGORIES = require('../json/homecategory.json');
+const HOMECATEGORIES=require('../json/homecategory.json');
 import HomeCategory  from "../components/HomeCategory";
 
 class Home extends Component{
     render(){
         return(
             <View>
+               <Text>This is home screen</Text>
                {
                    HOMECATEGORIES.map((item,index)=>{
                        return(
