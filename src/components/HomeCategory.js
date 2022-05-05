@@ -1,6 +1,6 @@
 import React,{Component} from "react";
-import {View,Text,ImageBackground,Dimensions} from "react-native";
-import { TouchableOpacity } from "react-native-gesture-handler";
+import {View,Text,ImageBackground,Dimensions, TouchableOpacity} from "react-native";
+
 
 import {widthPercentageToDP as wp, heightPercentageToDP as hp} from 'react-native-responsive-screen';
 
@@ -15,7 +15,8 @@ class HomeCategory extends Component{
     render(){
         return(
             <View>
-                <TouchableOpacity onPress={() => this.props.navigation.navigate("Category", {categoryName:this.props.titleFirst})}>
+
+                <TouchableOpacity onPress={()=>this.props.navigation.navigate("Category",{categoryName:this.props.titleFirst})}>
                     <ImageBackground source={{uri:this.props.imageUri}} 
                     style={{
                         height:200,
@@ -32,6 +33,8 @@ class HomeCategory extends Component{
 
                     </ImageBackground>
                 </TouchableOpacity>
+               
+               
             </View>
         )
     }
